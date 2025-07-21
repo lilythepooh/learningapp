@@ -1,0 +1,7 @@
+C:\Users\hksca\OneDrive\AZ-204\TMP2\learningapp\bin\Publish\learningapp.exe
+C:\Users\hksca\OneDrive\AZ-204\TMP2\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\hksca\OneDrive\AZ-204\TMP2\learningapp\bin\Publish\appsettings.json
+C:\Users\hksca\OneDrive\AZ-204\TMP2\learningapp\bin\Publish\learningapp.dll
+C:\Users\hksca\OneDrive\AZ-204\TMP2\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\hksca\OneDrive\AZ-204\TMP2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\hksca\OneDrive\AZ-204\TMP2\learningapp\bin\Publish\learningapp.pdb
